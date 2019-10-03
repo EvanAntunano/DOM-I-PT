@@ -7,6 +7,7 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 
 **ONE RULE: You cannot update the HTML or CSS files directly.  You must use JavaScript and the DOM only for your tasks today.**
 
+
 ## Set Up The Project With Git
 
 **Follow these steps to set up and work on your project:**
